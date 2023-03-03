@@ -1,4 +1,10 @@
-# zkouška konfliktů
-Další zkoušení GIT a GitHub
-Taky přidávám jeden text
-Zase jsem něco přidal
+# Git/ GitHub  od základů
+Odkaz **na** video [youtube](www.youtube.com)
+
+---  
+Příkazy:  
+
+```
+git version
+```
+
