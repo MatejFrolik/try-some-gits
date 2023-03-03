@@ -1,1 +1,1 @@
-console.log("servings");
+console.log("servings list");
